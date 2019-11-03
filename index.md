@@ -8,7 +8,7 @@ Princeton University
 
 ### Bio
 
-I am working in the Center for Policy Research on Energy and the Environment (C-PREE) at Woodrow Wilson School of Public and International Affairs, studying climate impacts on human migration, focused on quantitative methods for migration modeling and prediction.
+I am working in the Center for Policy Research on Energy and the Environment (C-PREE) at Woodrow Wilson School of Public and International Affairs, studying climate impacts on human migration with Professor Michael Oppenheimer, focused on quantitative methods for migration modeling and prediction.
 
 Before I came to Princeton University as a postdoctoral research associate, I obtained my PhD degree in Atmospheric Sciences at Stony Brook University, studied with Professor Minghua Zhang. 
 
