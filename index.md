@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Tingyin Xiao
 
-You can use the [editor on GitHub](https://github.com/TingyinX/TingyinX.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Associate Research Scholar
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Woodrow Wilson School of Public and International Affairs
 
-### Markdown
+Princeton University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Bio
 
-```markdown
-Syntax highlighted code block
+I am working in the Center for Policy Research on Energy and the Environment (C-PREE) at Woodrow Wilson School of Public and International Affairs, studying climate impacts on human migration, focused on quantitative methods for migration modeling and prediction.
 
-# Header 1
-## Header 2
-### Header 3
+Before I came to Princeton University as a postdoctoral research associate, I obtained my PhD degree in Atmospheric Sciences at Stony Brook University, studied with Professor Minghua Zhang. 
 
-- Bulleted
-- List
+Previous to that, I completed my master's degree in Atmospheric Sciences and Physical Oceanography at Institute of Atmospheric Physics, Chineses Academy of Sciences, studied with Professor Jiping Liu (currently at SUNY, Albany). 
 
-1. Numbered
-2. List
+I achieved my Bachelor's degree in Atmospheric Sciences at Nanjing University of Information Science and Technology, China, graduated with thesis advised by Professor Shaowen Shou.
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
+Email: tingyin.xiao(AT)princeton.edu
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Twitter: @tingyinxiao
 
-### Jekyll Themes
+LinkedIn: https://www.linkedin.com/in/tingyinxiao/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TingyinX/TingyinX.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Hobbies
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Drawing and painting, reading, playing the violin, only for self-entertaining
+
+Instagram: @tingyin
